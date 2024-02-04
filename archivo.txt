@@ -1,1 +1,3 @@
 Este es un archivo de texto.
+
+Este archivo servirá para probar git reset.
