@@ -1,1 +1,21 @@
-h1{text-align:center;}
+h1{text-align:center;
+	
+}
+.contenedor
+{
+	display:flex;
+	justify-content:center;
+	align-content:center;
+}
+
+.titulo{
+	text-align:center; 
+	border:1px solid navy; background-color:lightblue; color:blue;
+	width:30%;
+	}
+	
+	.contenido{
+		background-color:tan; color:brown; 
+		text-align:center; border:solid 2px brown;
+		margin:30px; padding:20px;
+		}
