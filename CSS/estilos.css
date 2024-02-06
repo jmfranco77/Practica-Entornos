@@ -19,3 +19,11 @@ h1{text-align:center;
 		text-align:center; border:solid 2px brown;
 		margin:30px; padding:20px;
 		}
+		
+	.cabecera
+	{
+		border:1px solid navy;
+		text-align:center;
+		font-family:Sans-serif;
+		
+	}
