@@ -10,7 +10,9 @@ h1{text-align:center;
 
 .titulo{
 	text-align:center; 
-	border:1px solid red; background-color:pink; color:red;
+
+	border:1px solid olive; background-color:lightgreen; color:green;
+
 	width:30%;
 	}
 	
