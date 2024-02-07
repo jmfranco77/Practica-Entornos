@@ -1,4 +1,4 @@
-Archivo de prueba para git, realizado en clase de Entornos.
+Archivo de prueba para git, como ejemplo de posible conflicto.
 Versión modificada
 
 Estoy en la rama de desarrollo. 
