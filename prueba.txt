@@ -1,2 +1,5 @@
-Archivo de prueba para git, realizado por José Manuel el miercoles.
+Archivo de prueba para git, realizado en clase de Entornos.
 Versión modificada
+
+Estoy en la rama de desarrollo. 
+He añadido algunas líneas.
