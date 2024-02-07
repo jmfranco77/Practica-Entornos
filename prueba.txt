@@ -1,4 +1,4 @@
-Archivo de prueba para git.
+Archivo de prueba para git, realizado para que de error.
 Versión modificada
 
 Estoy en la rama de desarrollo. 
