@@ -1,5 +1,2 @@
-Archivo de prueba para git.
+Archivo de prueba para git, realizado por José Manuel el miercoles.
 Versión modificada
-
-Estoy en la rama de desarrollo. 
-He añadido algunas líneas.
